@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohamed Saleh</h1>
-<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building responsive web apps. Proficient in CSS, JavaScript, React and Vue.Js</h3>
+<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building responsive web apps. Proficient in CSS, JavaScript, React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleh0987&label=Profile%20views&color=0e75b6&style=flat" alt="saleh0987" /> </p>
 
