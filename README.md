@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saleh</h1>
-<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building responsive web apps. Proficient in CSS, JavaScript, React</h3>
+<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building web apps. </h3>
 
 - 👨‍💻 All of my projects are available at [Github-Repositories](https://github.com/Saleh0987?tab=repositories)
 
